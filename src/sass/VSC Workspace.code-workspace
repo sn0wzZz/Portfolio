@@ -1,0 +1,14 @@
+{
+  "folders": [
+	{
+		"path": "..\\.."
+	},
+	{
+		"path": "D:\\DLs\\The Complete JavaScript Course 2021 From Zero to Expert!\\JS Course Code"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "VSC Workspace",
+    "liveServer.settings.port": 5501
+  }
+}
