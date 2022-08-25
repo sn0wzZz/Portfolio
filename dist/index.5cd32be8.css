@@ -112,6 +112,7 @@ main {
   border-radius: 2em;
   margin: 1em .75em;
   padding: .5em;
+  transition: transform .2s, opacity .1s;
   position: absolute;
   right: 0;
   transform: translateX(100%);
